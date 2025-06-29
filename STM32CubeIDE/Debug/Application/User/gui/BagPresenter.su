@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:14:18:virtual void ModelListener::updatePointerPosition(int, int)	0	static
+../../TouchGFX/gui/include/gui/bag_screen/BagPresenter.hpp:28:13:BagPresenter::~BagPresenter()	0	static
+C:/Users/nvt22/Downloads/Pokemon_Update/TouchGFX/gui/src/bag_screen/BagPresenter.cpp:10:6:virtual void BagPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/bag_screen/BagPresenter.hpp:28:13:virtual BagPresenter::~BagPresenter()	8	static
+../../TouchGFX/gui/include/gui/bag_screen/BagPresenter.hpp:28:13:virtual void* BagPresenter::_ZThn4_N12BagPresenterD1Ev()	0	static
+C:/Users/nvt22/Downloads/Pokemon_Update/TouchGFX/gui/src/bag_screen/BagPresenter.cpp:4:1:BagPresenter::BagPresenter(BagView&)	0	static

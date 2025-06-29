@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/map_screen/MapPresenter.hpp:28:13:MapPresenter::~MapPresenter()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/map_screen/MapPresenter.cpp:14:6:virtual void MapPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/map_screen/MapPresenter.hpp:28:13:virtual MapPresenter::~MapPresenter()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/map_screen/MapPresenter.cpp:9:6:virtual void MapPresenter::updatePointerPosition(int, int)	0	static
+../../TouchGFX/gui/include/gui/map_screen/MapPresenter.hpp:28:13:virtual void* MapPresenter::_ZThn4_N12MapPresenterD1Ev()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/map_screen/MapPresenter.cpp:4:1:MapPresenter::MapPresenter(MapView&)	0	static

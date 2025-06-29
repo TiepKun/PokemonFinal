@@ -1,0 +1,51 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:37:6:virtual void FightView::tearDownScreen()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:1102:6:virtual void FightView::ShowBag()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:1105:6:virtual void FightView::HideBag()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:1108:6:virtual void FightView::useBom()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:1114:6:virtual void FightView::usePotion()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:1120:6:virtual void FightView::useFullHeal()	0	static
+../../TouchGFX/gui/include/gui/fight_screen/FightView.hpp:11:13:FightView::~FightView()	8	static
+../../TouchGFX/gui/include/gui/fight_screen/FightView.hpp:11:13:virtual FightView::~FightView()	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:180:10:bool touchgfx::Rect::intersect(int16_t, int16_t) const	8	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:10:1:FightView::FightView()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:733:6:void FightView::Delay()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:737:6:void FightView::BossToggle()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:743:6:void FightView::PlayerToggle()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:749:6:void FightView::ShowFire()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:754:6:void FightView::DragonRageEffect()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:758:6:void FightView::StunToggle()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:763:6:void FightView::FearToggle()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:858:5:int FightView::Random(int, int)	12	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:862:6:void FightView::shieldToggle()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:867:6:void FightView::shieldToggle2()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:872:6:void FightView::BomEffect()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:888:6:void FightView::PlayerHealEffect()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:893:6:void FightView::FullHealEffect()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:898:6:void FightView::ThunderEffect()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:903:6:void FightView::DragonFearEffect()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:907:6:void FightView::HealEffect()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:920:6:void FightView::useBomDelay()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:924:6:void FightView::usePotionDelay()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:928:6:void FightView::useFullHealDelay()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:1126:6:void FightView::onCursorClicked()	32	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:41:6:void FightView::hideActionButton()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:60:6:virtual void FightView::Level1()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:72:6:virtual void FightView::Level2()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:84:6:virtual void FightView::Level3()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:97:6:virtual void FightView::Fight()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:711:6:void FightView::CheckEnd()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:849:6:void FightView::updateState()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:15:6:virtual void FightView::setupScreen()	16	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:768:6:virtual void FightView::FireBlast()	32	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:810:6:virtual void FightView::DragonRage()	32	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:932:6:virtual void FightView::Protect()	32	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:1074:6:void FightView::DragonFear()	24	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:1093:6:void FightView::Heal()	24	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:1055:6:void FightView::Thunder()	24	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:963:6:void FightView::BossAttack()	24	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:727:6:void FightView::SwapPointer()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:843:6:void FightView::updateHP()	16	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/fight_screen/FightView.cpp:115:6:virtual void FightView::handleTickEvent()	40	static

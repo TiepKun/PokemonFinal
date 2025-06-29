@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/startgame_screen/StartGamePresenter.hpp:28:13:StartGamePresenter::~StartGamePresenter()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/startgame_screen/StartGamePresenter.cpp:10:6:virtual void StartGamePresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/startgame_screen/StartGamePresenter.hpp:28:13:virtual StartGamePresenter::~StartGamePresenter()	8	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/startgame_screen/StartGamePresenter.cpp:14:6:virtual void StartGamePresenter::updatePointerPosition(int, int)	0	static
+../../TouchGFX/gui/include/gui/startgame_screen/StartGamePresenter.hpp:28:13:virtual void* StartGamePresenter::_ZThn4_N18StartGamePresenterD1Ev()	0	static
+C:/Users/LENOVO/Downloads/Pokemon_Update_Final/Pokemon_Update/TouchGFX/gui/src/startgame_screen/StartGamePresenter.cpp:4:1:StartGamePresenter::StartGamePresenter(StartGameView&)	0	static

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_E2BL" Alignment="Left" TypographyId="Typography_03">
+        <Translation Language="GB">150</Translation>
+      </Text>
+      <Text Id="__SingleUse_TZCP" Alignment="Left" TypographyId="Typography_03">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_S8N9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">you use &#10;FullHeal</Translation>
+      </Text>
+      <Text Id="__SingleUse_R24L" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MegaRay&#10;use Heal</Translation>
+      </Text>
+      <Text Id="__SingleUse_5S7R" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">MegaRay&#10;use Dragon&#10;Fear</Translation>
+      </Text>
+      <Text Id="__SingleUse_MNHY" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">MegaRay &#10;use Thunder</Translation>
+      </Text>
+      <Text Id="__SingleUse_WVWU" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Back</Translation>
+      </Text>
+      <Text Id="__SingleUse_7R6C" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">you use &#10;Potion</Translation>
+      </Text>
+      <Text Id="__SingleUse_3CUC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">you use &#10;Bom</Translation>
+      </Text>
+      <Text Id="__SingleUse_DPUF" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">Bom&#10;&#10;Gây 50 sát thương &#10;và làm choáng kẻ địch</Translation>
+      </Text>
+      <Text Id="__SingleUse_5JGS" Alignment="Left" TypographyId="Typography_02">
+        <Translation Language="GB">FullHeal&#10;&#10;Loại bỏ hoàn toàn &#10;trạng thái bất thường</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZQ2E" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Potion&#10;&#10;Phục hồi 50Hp</Translation>
+      </Text>
+      <Text Id="__SingleUse_GG7O" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MegaX is &#10;protected</Translation>
+      </Text>
+      <Text Id="__SingleUse_6O4S" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MegaX&#10;is scared</Translation>
+      </Text>
+      <Text Id="__SingleUse_P7LK" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MegaX use&#10;Protect</Translation>
+      </Text>
+      <Text Id="__SingleUse_JWKI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MegaRay&#10;is stunned</Translation>
+      </Text>
+      <Text Id="__SingleUse_J0PW" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">MegaX use&#10;DragonRage</Translation>
+      </Text>
+      <Text Id="__SingleUse_7PU6" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">MegaX use &#10;FireBlast</Translation>
+      </Text>
+      <Text Id="__SingleUse_2IF6" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">Protect</Translation>
+      </Text>
+      <Text Id="__SingleUse_KJ2L" Alignment="Left" TypographyId="Typography_01">
+        <Translation Language="GB">DragonRage</Translation>
+      </Text>
+      <Text Id="__SingleUse_B7NH" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">FireBlast</Translation>
+      </Text>
+      <Text Id="__SingleUse_C5G0" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">HP</Translation>
+      </Text>
+      <Text Id="__SingleUse_MASV" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">HP</Translation>
+      </Text>
+      <Text Id="__SingleUse_4QI6" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Mega X</Translation>
+      </Text>
+      <Text Id="__SingleUse_BDM5" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">Mega Rayquaza</Translation>
+      </Text>
+      <Text Id="__SingleUse_H0SC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">What will&#10;MegaX do</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="30" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="18" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_01" Font="verdana.ttf" Size="15" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_02" Font="verdana.ttf" Size="16" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_03" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="-" WildcardCharacterRanges="0-9" />
+  </Typographies>
+</TextDatabase>
